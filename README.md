@@ -1,4 +1,4 @@
-# PitchPerfect 
+# Pitch Perfect 
 
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 ![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
