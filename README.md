@@ -19,7 +19,7 @@ Xcode 8.3.3
 
 ### Screenshot
 
-![Pitch Perfect](http://www.nousbuild.org/demo/githubimages/pitch-perfect.jpg)
+![Pitch Perfect](https://img-1254235857.cos.ap-beijing.myqcloud.com/github/pitch-perfect.jpg)
 
 #### How to Use ?
 
@@ -34,7 +34,7 @@ After the app runs, you can refer to the following features
 + High Pitch／Low Pitch features
 + Echo／Reverb features
 
-![Pitch Perfect Button](http://www.nousbuild.org/demo/githubimages/pitch-perfect-button.jpg)
+![Pitch Perfect Button](https://img-1254235857.cos.ap-beijing.myqcloud.com/github/pitch-perfect-button.jpg)
 
 ### Supplement
 
