@@ -1,47 +1,38 @@
 # Pitch Perfect 
 
 ![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
-![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
-![Build Status](https://travis-ci.org/typelift/Swiftz.svg?branch=master)
-
-### Filename
-
-#### PitchPerfect
+![Carthage compatible](https://img.shields.io/badge/build-passing-4BC51D.svg?style=flat)
 
 A simple app that can save your voice to 6 different styles. Slow, Fast, High Pitch, Low Pitch, Echo and Reverb, respectively.
 
-### Languages
-Swift 3.x, Cocoa Touch
+### 1. Prerequisites
 
-### Xcode Version
++ Swift 3.x
++ Cocoa Touch
++ Xcode 8.3.3
 
-Xcode 8.3.3
+### 2. Screenshot
 
-### Screenshot
+![Pitch Perfect](assets/screenshot-2.png)
 
-![Pitch Perfect](https://img-1254235857.cos.ap-beijing.myqcloud.com/github/pitch-perfect.jpg)
-
-#### How to Use ?
+### 3. How to Use ?
 
 1. Download `zip` and double chick `PitchPerfect.xcodeproj`.
 2. Run or press Command + R.
 3. Use it in Xcode iOS simulator.
 
-#### Feature
+### 4. Feature
+
 After the app runs, you can refer to the following features
 
 + Fast／Slow Voive features
 + High Pitch／Low Pitch features
 + Echo／Reverb features
 
-![Pitch Perfect Button](https://img-1254235857.cos.ap-beijing.myqcloud.com/github/pitch-perfect-button.jpg)
+![Pitch Perfect](assets/screenshot-3.png)
 
-### Supplement
+![Pitch Perfect](assets/screenshot-1.jpg)
 
-You can even be used for other purposes if you can think out.
+### 5. License
 
-#### Legal
-
-Copyright (c) 2017： [windmill0503](https://github.com/windmill0503)
-
-Copyright (c) 2017： [Udacity](https://www.udacity.com)
+[MIT License](https://github.com/windmill0503/pitchPerfect/blob/master/LICENSE)
