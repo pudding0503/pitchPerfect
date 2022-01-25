@@ -1,7 +1,6 @@
 # Pitch Perfect 
 
-![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
-![Carthage compatible](https://img.shields.io/badge/build-passing-4BC51D.svg?style=flat)
+![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)![build](https://img.shields.io/badge/build-passing-4BC51D.svg?style=flat)
 
 A simple app that can save your voice to 6 different styles. Slow, Fast, High Pitch, Low Pitch, Echo and Reverb, respectively.
 
