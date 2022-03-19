@@ -35,4 +35,4 @@ After the app runs, you can refer to the following features
 
 ### 5. License
 
-[MIT License](https://github.com/windmill0503/pitchPerfect/blob/master/LICENSE)
+[MIT License](https://github.com/pudding0503/pitchPerfect/blob/master/LICENSE)
